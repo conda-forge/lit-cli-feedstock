@@ -1,5 +1,5 @@
 context:
-  version: 0.6.5
+  version: "0.6.6"
 
 package:
   name: lit-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@lit-labs/cli/-/cli-${{ version }}.tgz
-  sha256: 4c8f8e968fa2e6595808a4fa41ba77ef8f8ed0e4d1bb6797c38700101aad7b4c
+  sha256: 68b3bcdd494e394a84a71e19baa53ee3db762f41083956d5391d202e6638f0d9
 
 build:
   number: 0
